@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on : **Helper Software toward NCAAA accreditation**
 
-- 🌱 I’m currently learning **React and Inertia**
+- 🌱 I’m currently learning **Vue-Interia-Laravel**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sami.obied@outlook.com**
 
