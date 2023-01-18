@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **"Web Development"**
 
-- 📫 How to reach me **mailto:sami.obied@outlook.com**
+- 📫 How to reach me **"sami.obied@outlook.com"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
