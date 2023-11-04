@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">A passionate Full-Stack developer from Saudi Arabia</h3>
+<h3 align="center">A passionate Software Engineer from Saudi Arabia</h3>
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on : **Helper Software toward NCAAA accreditation**
+- 🔭 I’m currently working on : **Portfolio Web-site**
 
-- 🌱 I’m currently learning **"Vue-Interia-Laravel"**
+- 🌱 I’m currently learning **"Java Web Developer Nanodegree"**
 
-- 💬 Ask me about **"Web Development"**
+- 💬 Ask me about **"Software Development"**
 
 - 📫 How to reach me **"sami.obied@outlook.com"**
 
