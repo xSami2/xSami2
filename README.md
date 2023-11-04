@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://www.linkedin.com/in/sami-alharbi-660231171/)
 
 
-<h1 align="center">Hi 👋, I'm Sami</h1>
+<h1 align="center">Hi 👋, I'm Sami Alharbi</h1>
 <h3 align="center">A passionate Software Engineer from Saudi Arabia</h3>
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
