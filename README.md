@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on : **Portfolio Web-site**
 
-- 🌱 I’m currently learning **"Java Web Developer Nanodegree"**
+- 🌱 I’m currently learning **"Certified Kubernetes Application Developer (CKAD) "**
 
 - 💬 Ask me about **"Software Development"**
 
